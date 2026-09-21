@@ -1,8 +1,8 @@
 {
   "equipo": "G07",
   "integrantes": [
-    { "nombre": "Ada Lovelace", "codigo": "202010101" },
-    { "nombre": "Alan Turing",  "codigo": "202010102" },
-    { "nombre": "Grace Hopper", "codigo": "202010103" }
+    { "nombre": "Adrian Pacheco", "codigo": "202310084" },
+    { "nombre": "Enzo Mathias Calderon",  "codigo": "202510032" },
+    { "nombre": "Victor Paolo Soto Ruiz", "codigo": "202510343" }
   ]
 }
