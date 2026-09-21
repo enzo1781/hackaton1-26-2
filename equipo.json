@@ -1,8 +1,8 @@
 {
-  "equipo": "G00",
+  "equipo": "G07",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Ada Lovelace", "codigo": "202010101" },
+    { "nombre": "Alan Turing",  "codigo": "202010102" },
+    { "nombre": "Grace Hopper", "codigo": "202010103" }
   ]
 }
